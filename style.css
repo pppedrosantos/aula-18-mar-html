@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 body, h1, span{
     margin: 0;
     padding: 0;
@@ -54,7 +54,7 @@ ul li{
 
 .center{
     width: 100%;
-    height: 500px;
+    height: 520px;
     background-image:url("img1.jpg") ;
     background-repeat: no-repeat;
     background-size: cover;
@@ -105,4 +105,55 @@ ul li{
     border-radius: 5px;
 }
 
+.center3{
+    width: 100%;
+    height: 260px;
+    text-align: center;
+    
+}
+
+.center3 img{
+    padding: 80px 130px;
+   
+}
+
+.center3-texto{
+    text-align: center;
+}
+
+.center3-texto span{
+    margin: 165px;
+}
+
+.center4{
+    text-align: center;
+    font-size: 18px;
+    
+    
+}
+
+.center4 h1{
+    max-width: 280px;
+    float: left;
+    font-size: 17px;
+    margin-left: 105px;
+    padding-left: 25px;
+    font-weight: normal;
+    text-align: center;
+    
+   
+    
+
+}
+
+.footer{
+    width: 100%;
+    background-color: orange;
+    margin-top: 30px;
+    color: white;
+    height: 50px;
+    height: 25px;
+    text-align: center;
+    
+}
 
