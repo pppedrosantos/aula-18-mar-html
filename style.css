@@ -16,24 +16,25 @@ body, h1, span{
 .container{
     max-width: 1280px;
     height: 100%;
-    margin: 0
+    margin: 0;
 }
 
 .container-logo {
     padding: 13px;
     float: left;
-    margin-left: 8%;
+    margin-left: 100px;
 }
 
 
 .barra-navegacao{
     float: right;
-    margin-right: 8%;
+    margin-right: 100px;
     margin-top: -6px;
 }
 
 .lista-ul{
     list-style: none;
+    
 }
 
 ul li{
@@ -41,6 +42,7 @@ ul li{
   display: inline;
   margin-left: 17px;
   font-size: 17px;
+  
 
 }
 
@@ -64,8 +66,7 @@ ul li{
 .center .texto{
     font-size: 45px;
     padding-top: 50px;
-    padding-left: 360px;
-    
+    padding-left: 360px; 
 }
 
 .center2 h1{
@@ -109,12 +110,10 @@ ul li{
     width: 100%;
     height: 260px;
     text-align: center;
-    
 }
 
 .center3 img{
     padding: 80px 130px;
-   
 }
 
 .center3-texto{
@@ -128,8 +127,6 @@ ul li{
 .center4{
     text-align: center;
     font-size: 18px;
-    
-    
 }
 
 .center4 h1{
@@ -140,10 +137,6 @@ ul li{
     padding-left: 25px;
     font-weight: normal;
     text-align: center;
-    
-   
-    
-
 }
 
 .footer{
@@ -151,9 +144,7 @@ ul li{
     background-color: orange;
     margin-top: 30px;
     color: white;
-    height: 50px;
     height: 25px;
     text-align: center;
-    
 }
 
